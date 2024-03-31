@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Bad\Documents\Program_2\2\main.cpp(12,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Bad\Documents\Program_2\2\main.cpp(15,56): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  2.vcxproj -> C:\Users\Bad\Documents\Program_2\x64\Debug\2.exe
